@@ -1,9 +1,7 @@
 Hey!
 
-I'm currently pursuing a degree in Computer Science Engineering at MPSTME
+I'm graduate in Computer Science, and love tinkering around with lil projects that I find interesting!
 
-I have used C, C++, R, Python, html, js, and dabbled in Java
+I like Machine Learning, Data Analytics & App Development, but here you'll mostly find stuff that I do to learn & create :) 
 
-Interests: Machine Learning & Data Analysis & App Development
-
-sukhiapirann@gmail.com
+I have used C, C++, R, Python, html, js, and dabbled in Java.
